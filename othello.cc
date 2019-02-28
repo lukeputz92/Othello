@@ -5,8 +5,6 @@
 
 using namespace std;
 
-//Mr D. I deleted the constructor and destructor because they seemed
-//to be causing segfaults, I hope that is ok. 
 /*Othello::Othello() {
   restart();
 }*/
