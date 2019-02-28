@@ -1,7 +1,3 @@
-/******************************************************************
-    This is the implementation for the derived Game Othello
-    Luke Putz           Fall 2016
-**********************************************************************/
 #include "othello.h"
 #include "space.h"
 #include "colors.h"
